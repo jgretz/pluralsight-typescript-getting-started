@@ -1,0 +1,18 @@
+{
+  "git.ignoreLimitWarning": true,
+  "git.decorations.enabled": false,
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "npm-debug.log": true
+  },
+
+  "typescript.suggest.completeFunctionCalls": true,
+
+  "problems.decorations.enabled": false,
+
+  "window.zoomLevel": 0
+}
